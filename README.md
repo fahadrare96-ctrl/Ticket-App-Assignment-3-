@@ -99,5 +99,5 @@ npx expo start
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Fahad hussain**  
 Mobile Application Development — 2026
